@@ -1,0 +1,17 @@
+body {
+	display:inline-block;
+	position: relative;
+}
+
+body > svg {
+    width: 100%;
+    height: 100%;
+}
+
+#gauge-holder {
+    display: inline-block;
+}
+.gauge {
+    width: 100%;
+    height: 100%;
+}
